@@ -16,8 +16,8 @@ tnpm is a lightweight node package manager, built with JavaScript.
 ## Installation
 
 ```bash
-npm install -g tnpm          # Install
-tnpm                         # After install
+npm install -g tnpm-cli          # Install
+tnpm                             # After install
 ```
 
 ## Stats
