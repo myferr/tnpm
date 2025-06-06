@@ -1,0 +1,15 @@
+{
+  "name": "tnpm",
+  "version": "0.0.1",
+  "type": "module",
+  "bin": {
+    "tnpm": "./tnpm.js",
+    "tnpx": "./tnpx.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "fdir": "^6.4.5",
+    "node-fetch": "^3.3.2",
+    "tar": "^7.4.3"
+  }
+}
